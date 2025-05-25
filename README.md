@@ -87,9 +87,6 @@ python app.py
 
 5. Open your browser and go to http://127.0.0.1:5000
 
-## 📸 Screenshots
-Project Posters	Lightbox Example
-
 ## 📬 Contact
 Email: reecetoomey05@gmail.com
 Phone: +44 7948 310176
